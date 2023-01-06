@@ -5,5 +5,3 @@
 **.env
 **__pycache__/
 **/.terraform*
-**lib/
-google_credentials.json
