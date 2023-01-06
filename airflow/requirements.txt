@@ -1,0 +1,4 @@
+confluent-kafka
+psycopg2-binary
+pyarrow
+pandas

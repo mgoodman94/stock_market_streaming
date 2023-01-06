@@ -1,0 +1,9 @@
+.idea
+*.tfstate
+**/.DS_Store
+**logs/
+**.env
+**__pycache__/
+**/.terraform*
+**lib/
+google_credentials.json

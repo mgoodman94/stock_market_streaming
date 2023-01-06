@@ -1,0 +1,37 @@
+[
+    {
+      "name": "CompanySymbol",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Timestamp",
+      "type": "DATETIME",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Open",
+      "type": "FLOAT64",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "High",
+      "type": "FLOAT64",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Low",
+      "type": "FLOAT64",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Close",
+      "type": "FLOAT64",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "Volume",
+      "type": "INT64",
+      "mode": "NULLABLE"
+    }
+]
